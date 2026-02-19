@@ -1,0 +1,257 @@
+{
+    "format_version": "1.17",
+    "minecraft:npc_dialogue": {
+        "scenes": [
+            {
+                "scene_tag": "npc_dialog_1",
+                "npc_name": "Cat Facts",
+                "text": "Cats have five toes on their front paws, and four on their back paws."
+            },
+            {
+                "scene_tag": "npc_dialog_2",
+                "npc_name": "Cat Facts",
+                "text": "A group of cats is called a clowder."
+            },
+            {
+                "scene_tag": "npc_dialog_3",
+                "npc_name": "Cat Facts",
+                "text": "Adult cats typically sleep 12–16 hours each day."
+            },
+            {
+                "scene_tag": "npc_dialog_4",
+                "npc_name": "Cat Facts",
+                "text": "Cats can rotate their ears up to 180 degrees to pinpoint sounds."
+            },
+            {
+                "scene_tag": "npc_dialog_5",
+                "npc_name": "Cat Facts",
+                "text": "Cats have five toes on their front paws, and four on their back paws."
+            },
+            {
+                "scene_tag": "npc_dialog_6",
+                "npc_name": "Cat Facts",
+                "text": "A group of cats is called a clowder."
+            },
+            {
+                "scene_tag": "npc_dialog_7",
+                "npc_name": "Cat Facts",
+                "text": "Adult cats typically sleep 12–16 hours each day."
+            },
+            {
+                "scene_tag": "npc_dialog_8",
+                "npc_name": "Cat Facts",
+                "text": "Cats can rotate their ears up to 180 degrees to pinpoint sounds."
+            },
+            {
+                "scene_tag": "npc_dialog_9",
+                "npc_name": "Cat Facts",
+                "text": "A cat's nose has a unique pattern, similar to a human fingerprint."
+            },
+            {
+                "scene_tag": "npc_dialog_10",
+                "npc_name": "Cat Facts",
+                "text": "Domestic cats descend from the Near Eastern wildcat."
+            },
+            {
+                "scene_tag": "npc_dialog_11",
+                "npc_name": "Cat Facts",
+                "text": "Cats groom themselves to regulate temperature and reduce scent."
+            },
+            {
+                "scene_tag": "npc_dialog_12",
+                "npc_name": "Cat Facts",
+                "text": "Whiskers help cats sense nearby objects and subtle air movements."
+            },
+            {
+                "scene_tag": "npc_dialog_13",
+                "npc_name": "Cat Facts",
+                "text": "Cats can make over 100 different vocal sounds, while dogs make about 10."
+            },
+            {
+                "scene_tag": "npc_dialog_14",
+                "npc_name": "Cat Facts",
+                "text": "Purring may have healing properties and can support tissue recovery."
+            },
+            {
+                "scene_tag": "npc_dialog_15",
+                "npc_name": "Cat Facts",
+                "text": "Most cats cannot taste sweets because they lack the necessary taste receptors."
+            },
+            {
+                "scene_tag": "npc_dialog_16",
+                "npc_name": "Cat Facts",
+                "text": "Cats often land on their feet thanks to a flexible spine and righting reflex."
+            },
+            {
+                "scene_tag": "npc_dialog_17",
+                "npc_name": "Cat Facts",
+                "text": "A cat's heart rate is faster than a human's, typically 140–220 beats per minute."
+            },
+            {
+                "scene_tag": "npc_dialog_18",
+                "npc_name": "Cat Facts",
+                "text": "Kittens usually open their eyes between 7 and 10 days after birth."
+            },
+            {
+                "scene_tag": "npc_dialog_19",
+                "npc_name": "Cat Facts",
+                "text": "Many cats are crepuscular — most active at dawn and dusk."
+            },
+            {
+                "scene_tag": "npc_dialog_20",
+                "npc_name": "Cat Facts",
+                "text": "Cats primarily sweat through the pads of their paws."
+            },
+            {
+                "scene_tag": "npc_dialog_21",
+                "npc_name": "Cat Facts",
+                "text": "A male cat is often called a tom, while a female is called a queen."
+            },
+            {
+                "scene_tag": "npc_dialog_22",
+                "npc_name": "Cat Facts",
+                "text": "The oldest recorded cat lived to be 38 years old."
+            },
+            {
+                "scene_tag": "npc_dialog_23",
+                "npc_name": "Cat Facts",
+                "text": "Cats have a free-floating clavicle that helps them squeeze through tight spaces."
+            },
+            {
+                "scene_tag": "npc_dialog_24",
+                "npc_name": "Cat Facts",
+                "text": "In some cultures, black cats are considered good luck."
+            },
+            {
+                "scene_tag": "npc_dialog_25",
+                "npc_name": "Cat Facts",
+                "text": "A cat's brain is structurally similar to a human brain, about 90% in common."
+            },
+            {
+                "scene_tag": "npc_dialog_26",
+                "npc_name": "Cat Facts",
+                "text": "Cats use scent marking from glands to communicate territory and identity."
+            },
+            {
+                "scene_tag": "npc_dialog_27",
+                "npc_name": "Cat Facts",
+                "text": "The Maine Coon is one of the largest domestic cat breeds."
+            },
+            {
+                "scene_tag": "npc_dialog_28",
+                "npc_name": "Cat Facts",
+                "text": "The Singapura is among the smallest recognized domestic cat breeds."
+            },
+            {
+                "scene_tag": "npc_dialog_29",
+                "npc_name": "Cat Facts",
+                "text": "Cats can jump up to six times their body length in a single leap."
+            },
+            {
+                "scene_tag": "npc_dialog_30",
+                "npc_name": "Cat Facts",
+                "text": "When a cat yawns it may be stretching facial muscles or signaling relaxation."
+            },
+            {
+                "scene_tag": "npc_dialog_31",
+                "npc_name": "Cat Facts",
+                "text": "Cats have a reflective layer behind their retina called the tapetum lucidum for night vision."
+            },
+            {
+                "scene_tag": "npc_dialog_32",
+                "npc_name": "Cat Facts",
+                "text": "A cat's whiskers are roughly as wide as its body and help judge openings."
+            },
+            {
+                "scene_tag": "npc_dialog_33",
+                "npc_name": "Cat Facts",
+                "text": "Many cats enjoy water and can swim, though preferences vary by individual."
+            },
+            {
+                "scene_tag": "npc_dialog_34",
+                "npc_name": "Cat Facts",
+                "text": "A cat's tail position is an important indicator of mood and intention."
+            },
+            {
+                "scene_tag": "npc_dialog_35",
+                "npc_name": "Cat Facts",
+                "text": "Cats have extra vertebrae in their spine, giving them great flexibility."
+            },
+            {
+                "scene_tag": "npc_dialog_36",
+                "npc_name": "Cat Facts",
+                "text": "Polydactyl cats have extra toes and were historically valued by sailors."
+            },
+            {
+                "scene_tag": "npc_dialog_37",
+                "npc_name": "Cat Facts",
+                "text": "Cats can sprint at speeds up to about 30 mph (48 km/h) in short bursts."
+            },
+            {
+                "scene_tag": "npc_dialog_38",
+                "npc_name": "Cat Facts",
+                "text": "The first cloned pet was a cat nicknamed CC (CopyCat)."
+            },
+            {
+                "scene_tag": "npc_dialog_39",
+                "npc_name": "Cat Facts",
+                "text": "Indoor cats often live longer than outdoor cats due to fewer hazards."
+            },
+            {
+                "scene_tag": "npc_dialog_40",
+                "npc_name": "Cat Facts",
+                "text": "Cats sometimes bring 'gifts' like prey to their owners as part of hunting behavior."
+            },
+            {
+                "scene_tag": "npc_dialog_41",
+                "npc_name": "Cat Facts",
+                "text": "On average, cats spend about two-thirds of their lives sleeping."
+            },
+            {
+                "scene_tag": "npc_dialog_42",
+                "npc_name": "Cat Facts",
+                "text": "Slow blinking from a cat is often a sign of trust and affection."
+            },
+            {
+                "scene_tag": "npc_dialog_43",
+                "npc_name": "Cat Facts",
+                "text": "Whiskers also help cats measure whether they can fit through openings."
+            },
+            {
+                "scene_tag": "npc_dialog_44",
+                "npc_name": "Cat Facts",
+                "text": "A cat's milk is tailored to kittens and is not ideal for adult humans."
+            },
+            {
+                "scene_tag": "npc_dialog_45",
+                "npc_name": "Cat Facts",
+                "text": "Breeds like the Sphynx have little hair due to genetic mutations."
+            },
+            {
+                "scene_tag": "npc_dialog_46",
+                "npc_name": "Cat Facts",
+                "text": "A cat's sense of smell is far more acute than a human's, about 14 times stronger."
+            },
+            {
+                "scene_tag": "npc_dialog_47",
+                "npc_name": "Cat Facts",
+                "text": "Ancient Egyptians revered cats and often depicted them in art and sculpture."
+            },
+            {
+                "scene_tag": "npc_dialog_48",
+                "npc_name": "Cat Facts",
+                "text": "Some cats can develop separation anxiety if left alone frequently."
+            },
+            {
+                "scene_tag": "npc_dialog_49",
+                "npc_name": "Cat Facts",
+                "text": "Female cats can have kittens in a single litter with multiple fathers."
+            },
+            {
+                "scene_tag": "npc_dialog_50",
+                "npc_name": "Cat Facts",
+                "text": "Cats have scent glands on their cheeks which they use to mark familiar people and places."
+            }
+        ]
+    }
+}
