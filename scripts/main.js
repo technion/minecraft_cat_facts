@@ -55,20 +55,24 @@ const dialogScenes = [
 ];
 
 
-world.afterEvents.entityHitEntity.subscribe(() => {}); // keep script alive
-
 world.beforeEvents.playerInteractWithEntity.subscribe((event) => {
-  const entity = event.target;
-  console.log(`Player interacted with entity of type: ${entity.typeId}`);
-  if (entity.typeId !== "minecraft:npc") return;
+  try {
+    const entity = event.target;
+    console.log(`Player interacted with entity of type: ${entity.typeId}`);
+    if (entity.typeId !== "minecraft:npc") return;
 
-  const player = event.player;
+    // Prevent the NPC's default dialogue from opening
+    event.cancel = true;
 
-  // Pick a random scene
-  const randomScene = dialogScenes[Math.floor(Math.random() * dialogScenes.length)];
-  console.log(`Selected random scene: ${randomScene}`);
-  // Open the dialogue scene for the player
-  system.run(() => {
-    player.runCommand(`dialogue open @e[type=npc,r=2] @s ${randomScene}`);
-  });
+    const player = event.player;
+    // Pick a random scene
+    const randomScene = dialogScenes[Math.floor(Math.random() * dialogScenes.length)];
+    console.log(`Selected random scene: ${randomScene}`);
+    // Open the dialogue scene for the player, targeting the specific NPC by id
+    system.run(() => {
+      player.runCommand(`dialogue open @e[type=npc,r=2] @s ${randomScene}`);
+    });
+  } catch (error) {
+    console.error("Error handling player interaction with NPC:", error);
+  }
 });
